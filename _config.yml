@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Who is John Morrow"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "John Morrow"
+description              : "This is a personal website for John Morrow."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -83,11 +83,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "John Morrow"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am a graduate student in Robotics Engineering at Oregon State University."
+  location         : "Oregon State University"
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
@@ -95,12 +95,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/NotCras"
   gitlab           :
-  google_plus      :
+  google_plus      : 
   keybase          :
   instagram        :
-  lastfm           :
+  lastfm           : 
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
