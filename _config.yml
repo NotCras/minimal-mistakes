@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en"
-title                    : "Who is John Morrow"
+title                    : "John F. Morrow IV"
 title_separator          : "-"
 name                     : "John Morrow"
 description              : "This is a personal website for John Morrow."
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "John Morrow"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am a graduate student in Robotics Engineering at Oregon State University."
+  bio              : "PhD Candidate in Robotics Engineering at Oregon State University."
   location         : "Oregon State University"
   email            :
   uri              :
