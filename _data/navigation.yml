@@ -4,8 +4,8 @@ main:
     url: /aboutme/
   - title: "Projects"
     url: /projects/
-   - title: "Publications"
-     url: /publications/
+  - title: "Publications"
+    url: /publications/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
