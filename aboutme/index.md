@@ -2,7 +2,6 @@
 layout: single
 author_profile: false
 ---
-# Contact Him
 
 You can contact John with all queries related to research at morrowjo (at) oregonstate.edu. Should everything be alright on John's end, you could expect a response from him in about 2-3 days. Please include [CONTACT REQUESTED] in the subject line so I know you're not a bot.
 
