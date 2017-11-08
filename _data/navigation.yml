@@ -2,8 +2,8 @@
 main:
   - title: "About Me"
     url: /aboutme/index.md
-   - title: "Projects"
-     url: /projects/index.md
+  - title: "Projects"
+    url: /projects/index.md
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
